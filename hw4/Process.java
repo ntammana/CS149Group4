@@ -19,11 +19,11 @@ public class Process {
     private final int[] SIZES={5,11,17,31};
     private final int[] DURATIONS={1,2,3,4,5};
     Random r= new Random();
-    Process(int i,int q)
+    Process(int i)
     {
     	size=randomSize();
     	duration=randomDuration();
-    	name=(i*1000)+(q);
+    	name=(i);
     }
     int randomSize(){
     	int num=r.nextInt(4);
