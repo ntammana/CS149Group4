@@ -6,7 +6,7 @@ public class Printer {
 	public static void start() {
 		// TODO Auto-generated method stub
 		Arrays.fill(output, "...");
-		System.out.print(" Cs 149 Section 02 \n Group 4 output \n Nicholas Bettencourt, Albert Chen, Casey Thavy, \n Christy Eicher, Sandy Yi, Brandon Something, \n Neha Something");
+		System.out.print(" Cs 149 Section 02 \n Group 4 output \n Nicholas Bettencourt, Albert Chen, Casey Thavy, \n Christy Eicher, Sandy Yi, Brandon Trieu, \n Neha Something");
 	}
 	public static void out(){
 		
