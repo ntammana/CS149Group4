@@ -6,7 +6,7 @@ import java.util.Random;
  * Group 4:
  * Nicholas Bettencourt,Albert Chen,
  * Casey Thacy, Christy Blank,
- * Brandon Blank, Sandy Blank,
+ * Brandon Trieu, Sandy Yi,
  * Neha Blank
  * 
  * To do: Replace "blank" with names
